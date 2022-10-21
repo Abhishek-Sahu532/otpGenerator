@@ -1,0 +1,39 @@
+main{
+    border: 1px solid #283618;
+    height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: #E8EEF2;
+}
+
+.heading{
+    background-color: #E8EEF2;
+    padding: 10px;
+    text-align: center;
+    color: #606c38;
+
+}
+
+.generator{
+    padding: 10px;
+    background-color: #283618;
+    text-align: center;
+}
+
+#btn{
+    padding: 8px;
+    color: #264653;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+p{
+    color: #E8EEF2;
+    font-size: 18px;
+    font-weight: 400;
+}
